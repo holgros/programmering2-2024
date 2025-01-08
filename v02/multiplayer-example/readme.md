@@ -1,0 +1,3 @@
+Installera NodeJS på din dator ifall du inte redan har gjort detta i webbserverkursen!
+Bra tutorial till sockets med NodeJS finns på: https://socket.io/docs/v4/tutorial/introduction
+Pröva att bygga en enkel chattapplikation, som i tutorialen, och börja sedan planera för ett eget lite mer komplext projekt. Ett förslag kan vara att du utökar JavaScript-spelet som du gjorde i förra programmeringskursen till ett nätverksspel för flera spelare.
