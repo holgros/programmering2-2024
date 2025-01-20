@@ -22,4 +22,3 @@ while True:
     print(msg)
     # Stäng anslutningen till klienten
     conn.close()
-conn.close()
