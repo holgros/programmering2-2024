@@ -1,7 +1,7 @@
 from socket import *
 def start_server():
     s = socket()            # Skapa ett socket-objekt
-    host = "10.32.42.137"      # som körs på den egna datorn
+    host = "localhost"      # som körs på den egna datorn
     port = 12345            # på port 12345.
     s.bind((host, port))    # Konfigurera socket-objektet.
     s.listen()              # Vänta på att klient ansluter.
